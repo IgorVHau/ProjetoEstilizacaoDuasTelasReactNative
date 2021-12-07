@@ -7,6 +7,8 @@ const styles = StyleSheet.create({
         backgroundColor: "black",
         borderRadius: 0,
         alignItems: "center",
+        position: 'absolute',
+        bottom: 0,
     },
 });
 
