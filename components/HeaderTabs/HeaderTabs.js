@@ -18,7 +18,11 @@ const HeaderTabs = () => {
                 style={styles.img}
                 >
                     <TouchableOpacity>
-                    <Text style={styles.title}>FOOD LOVERS</Text>
+                    <Text 
+                        style={styles.title
+                        }>
+                        FOOD LOVER
+                    </Text>
                     </TouchableOpacity>
                 </ImageBackground>
                 
